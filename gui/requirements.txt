@@ -9,7 +9,7 @@ pyside6==6.3.2
 python-magic==0.4.27
 rawpy==0.17.2
 scikit-image==0.19.3
-scikit-learn==1.1.2
+scikit-learn==1.5.0
 sewar==0.4.5
 tensorflow==2.11.1
 xgboost==1.6.2
